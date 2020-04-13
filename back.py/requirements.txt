@@ -1,0 +1,9 @@
+-e .
+Flask
+flask-cors
+flask-json
+Flask-SQLAlchemy
+google-cloud-secret-manager
+pg8000
+psycopg2
+SQLAlchemy

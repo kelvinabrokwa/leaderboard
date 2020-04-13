@@ -1,0 +1,1 @@
+from leaderboard.server import app
